@@ -10,7 +10,7 @@ Install all the vim plug extensions
 
 Install COC extensions
 ```
-CocInstall coc-rust-analyzer coc-phpls @yaegassy/coc-phpstan @yaegassy/coc-marksman
+CocInstall coc-phpls coc-go coc-rust-analyzer @yaegassy/coc-phpstan @yaegassy/coc-marksman
 ```
 
 ## Plugin Manager
@@ -22,10 +22,11 @@ CocInstall coc-rust-analyzer coc-phpls @yaegassy/coc-phpstan @yaegassy/coc-marks
 3. [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim)
 
 ## COC Plugins
-1. [coc-rust-analyzer](https://github.com/fannheyward/coc-rust-analyzer)
-2. [coc-phpls](https://github.com/marlonfan/coc-phpls)
-3. [@yaegassy/coc-phpstan](https://github.com/yaegassy/coc-phpstan)
-4. [@yaegassy/coc-marksman](https://github.com/yaegassy/coc-marksman)
+1. [coc-phpls](https://github.com/marlonfan/coc-phpls)
+2. [coc-rust-analyzer](https://github.com/fannheyward/coc-rust-analyzer)
+3. [coc-go](https://github.com/josa42/coc-go)
+4. [@yaegassy/coc-phpstan](https://github.com/yaegassy/coc-phpstan)
+5. [@yaegassy/coc-marksman](https://github.com/yaegassy/coc-marksman)
 
 ## Keybindings
 - To move up in the code completion menu use: `Ctrl-p`
